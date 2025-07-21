@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 # Matching exmaple:
 # ./bloom.py BTS87mopaNqLDjT1BvzqQR3QjWzWSTgkWnMcwt5sqxHuavCBi1s3m
 
